@@ -1,5 +1,0 @@
-Git is a distributed version control system.
-Git is free software.
-now let learn Git!
-Git tracks changes
-Now  let's create GitHub repository !
